@@ -1,6 +1,6 @@
 # Riddle Solver
 (This solver needs a  better German corpus (with bundled texts) to realize it. The current corpus used from http://wortschatz.uni-leipzig.de/en is only a sentence-based corpus and is insufficient to support the solver.)
-### Processing the riddle document
+### Process the riddle document
 1. Remove the noise (e.g., punctuation)
 2. Remove the stopwords (https://github.com/solariz/german_stopwords)
 3. Pos (part-of-speech) tag with the Tiger Corpus (https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/download/start.html)
